@@ -1,0 +1,5 @@
+{
+  "name": "underware-dev",
+  "workspaces": ["./packages/*"],
+  "private": true
+}

@@ -1,0 +1,12 @@
+{
+    "exports": {
+        "jeans": "src/jeans.js",
+        "pjs": "src/pjs.js",
+        "shorts": "src/shorts.js"
+    },
+    "depends": {
+        "pjs": "shorts",
+        "shorts": "jeans"
+    }
+
+}

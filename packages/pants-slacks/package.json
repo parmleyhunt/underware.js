@@ -1,0 +1,11 @@
+{
+  "name": "underwarejs-slacks",
+  "version": "1.0.0",
+  "description": "Web module for use with Underware",
+  "contributors": [
+    {
+      "name": "Hunter Parmley",
+      "email": "parmleyhunt@gmail.com"
+    }
+  ]
+}

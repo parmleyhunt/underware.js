@@ -1,0 +1,8 @@
+{
+    "exports": {
+        "bot": "src/bot.js"
+    },
+    "depends": {
+        "bot": "underwarejs-base/jeans"
+    }
+}

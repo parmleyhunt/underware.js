@@ -1,0 +1,22 @@
+{
+    "html": "text/html",
+    "jpeg": "image/jpeg",
+    "jpg": "image/jpeg",
+    "png": "image/png",
+    "json": "application/json",
+    "js": "text/javascript",
+    "ico": "image/x-icon",
+    "svg": "image/svg+xml",
+    "css": "text/css",
+    "woff": "font/woff",
+    "woff2": "font/woff2",
+    "eot": "font/eot",
+    "ttf": "font/ttf",
+    "node": "text/html",
+    "webp": "image/webp",
+    "zip": "application/zip",
+    "webmanifest": "application/manifest+json",
+    "txt": "text/plain",
+    "pdf": "application/pdf",
+    "": "text/plain"
+  }

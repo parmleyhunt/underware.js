@@ -1,0 +1,14 @@
+{
+    "exports": {
+        "web": "src/web.js",
+        "template": "src/template.js",
+        "routing": "src/routing.js",
+        "callback": "src/callback.js"
+    },
+    "depends": {
+        "web": "underwarejs-base/jeans",
+        "template": "underwarejs-base/shorts",
+        "routing": "underwarejs-base/shorts",
+        "callback": "underwarejs-base/shorts"
+    }
+}
